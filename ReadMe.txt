@@ -1,3 +1,9 @@
+TO INSTALL PLAYWRIGHT --> npm init playwright@latest
+PLEASE INSTALL NODE MODULES
+
+
+
+
 In this project, ebay_module folder is the folder having both files consisting of tests and high order level functions
 
 ebay_helper.spec.js --> consist of all high order level function to use page object model
